@@ -3,7 +3,7 @@
    "description":"This prequel to the Boogiepop Phantom series deals with the sudden disappearance of several female students at Shinyo Academy. Are they runaways, abductees, or murder victims? Couple this mystery with the sudden appearance of a mysterious apparition known only as Boogiepop, and even more questions arise in the mind of Keiji, a student who can see and converse with the strange spectre. Who or what is Boogiepop? Is he responsible for the abductions, or is he trying to stop them? Why does he have the appearance of Keji's girlfriend, Touka?",
    "artist":"Ogata Kouji",
    "author":"Kadono Kouhei",
-   "cover":"https://i.imgur.com/beyaKmI.jpg",
+   "cover":"https://i.imgur.com/kIYOQJ4.png",
    "chapters":{
       "1":{
          "title":"Chapter 1",
@@ -95,6 +95,23 @@
          "volume":"1",
          "groups":{
             "Tokumei":"/proxy/api/imgur/chapter/GXU0GsS/"
+         },
+         "last_updated":"1635702509"
+      },
+      "12":{
+         "title":"Chapter 12",
+         "volume":"2",
+         "groups":{
+            "Tokumei":"/proxy/api/imgur/chapter/C4WB1sB/"
+         },
+         "last_updated":"1635702509"
+      },
+
+"13":{
+         "title":"Chapter 13",
+         "volume":"2",
+         "groups":{
+            "Tokumei":"/proxy/api/imgur/chapter/3YkFs77/"
          },
          "last_updated":"1635702509"
       }
