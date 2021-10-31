@@ -73,6 +73,30 @@
         "Tokumei": "/proxy/api/imgur/chapter/iChkktB/"
       },
       "last_updated": "1635702509"
-    }
+    },
+      "9":{
+         "title":"Chapter 9",
+         "volume":"1",
+         "groups":{
+            "Tokumei":"/proxy/api/imgur/chapter/WUf9CRq/"
+         },
+         "last_updated":"1635702509"
+      },
+"10":{
+         "title":"Chapter 10",
+         "volume":"1",
+         "groups":{
+            "Tokumei":"/proxy/api/imgur/chapter/niTOioJ/"
+         },
+         "last_updated":"1635702509"
+      },
+"11":{
+         "title":"Chapter 11",
+         "volume":"1",
+         "groups":{
+            "Tokumei":"/proxy/api/imgur/chapter/GXU0GsS/"
+         },
+         "last_updated":"1635702509"
+      }
    }
 }
