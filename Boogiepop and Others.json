@@ -1,17 +1,17 @@
 {
-  "title": "Boogiepop and Others",
-  "description": "<manga description>",
-  "artist": "Ogata Kouji",
-  "author": "Kadono Kouhei",
-  "cover": "https://i.imgur.com/beyaKmI.jpg",
-  "chapters": {
-    "1": {
-      "title": "1",
-      "volume": "1",
-      "groups": {
-        "Tokumei": "/proxy/api/imgur/chapter/HHjewOw/"
-      },
-      "last_updated": "1616368746"
-    },
-  }
+   "title":"Boogiepop and Others",
+   "description":"<manga description>",
+   "artist":"Ogata Kouji",
+   "author":"Kadono Kouhei",
+   "cover":"https://i.imgur.com/beyaKmI.jpg",
+   "chapters":{
+      "1":{
+         "title":"1",
+         "volume":"1",
+         "groups":{
+            "Tokumei":"/proxy/api/imgur/chapter/HHjewOw/"
+         },
+         "last_updated":"1616368746"
+      }
+   }
 }
