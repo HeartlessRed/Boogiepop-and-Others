@@ -114,6 +114,78 @@
             "Tokumei":"/proxy/api/imgur/chapter/3YkFs77/"
          },
          "last_updated":"1635702509"
+      },
+       "14":{
+         "title":"Chapter 14",
+         "volume":"2",
+         "groups":{
+            "Tokumei":"/proxy/api/imgur/chapter/at5Suz6/"
+         },
+         "last_updated":"1635702509"
+      },
+"15":{
+         "title":"Chapter 15",
+         "volume":"2",
+         "groups":{
+            "Tokumei":"/proxy/api/imgur/chapter/eeXlqVU/"
+         },
+         "last_updated":"1635702509"
+      },
+"16":{
+         "title":"Chapter 16",
+         "volume":"2",
+         "groups":{
+            "Tokumei":"/proxy/api/imgur/chapter/D5zABuj/"
+         },
+         "last_updated":"1635702509"
+      },
+"17":{
+         "title":"Chapter 17",
+         "volume":"2",
+         "groups":{
+            "Tokumei":"/proxy/api/imgur/chapter/mf9gztM/"
+         },
+         "last_updated":"1635702509"
+      },
+"18":{
+         "title":"Chapter 18",
+         "volume":"2",
+         "groups":{
+            "Tokumei":"/proxy/api/imgur/chapter/8ByxGgX/"
+         },
+         "last_updated":"1635702509"
+      },
+"19":{
+         "title":"Chapter 19",
+         "volume":"2",
+         "groups":{
+            "Tokumei":"/proxy/api/imgur/chapter/tuVyhKt/"
+         },
+         "last_updated":"1635702509"
+      },
+"20":{
+         "title":"Chapter 20",
+         "volume":"2",
+         "groups":{
+            "Tokumei":"/proxy/api/imgur/chapter/7pTLV9J/"
+         },
+         "last_updated":"1635702509"
+      },
+"21":{
+         "title":"Chapter 21",
+         "volume":"2",
+         "groups":{
+            "Tokumei":"/proxy/api/imgur/chapter/pz4hGbL/"
+         },
+         "last_updated":"1635702509"
+      },
+"22":{
+         "title":"Final Chapter",
+         "volume":"2",
+         "groups":{
+            "Tokumei":"/proxy/api/imgur/chapter/jI4yxS6/"
+         },
+         "last_updated":"1635702509"
       }
    }
 }
