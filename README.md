@@ -1,0 +1,1 @@
+Link to cubari page: https://cubari.moe/read/gist/cmF3L0hlYXJ0bGVzc1JlZC9Cb29naWVwb3AtYW5kLU90aGVycy9tYXN0ZXIvQm9vZ2llcG9wJTIwYW5kJTIwT3RoZXJzLmpzb24/
